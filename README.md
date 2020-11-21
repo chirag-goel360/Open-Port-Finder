@@ -18,3 +18,7 @@ IMAP - 143 is the default IMAP port for non-encrypted connections.
 HTTPS - 443 is the port used to serve all SSL-based requests on any website.
 ```
 
+# Usage
+
+Navigate to the folder where you have downloaded/cloned this repository and and then open command prompt there then follow the process like in image.
+![Image ](https://i.ibb.co/3sZGCQn/Screenshot-48.png)
